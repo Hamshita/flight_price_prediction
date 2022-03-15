@@ -5,6 +5,10 @@
 numpy
 pandas
 sklearn
+#sklearn.ensemble
+#sklearn.metrics
+mlflow
+joblib
 click
 Sphinx
 coverage
